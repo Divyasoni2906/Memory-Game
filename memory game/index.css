@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+img{
+    border: 1px solid slategrey;
+    height:100px;
+    width:100px;
+}
+h3{
+    padding: 0px;
+    margin: 10px;
+
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    padding: 5px;
+    margin: 0px;
+    width: 400px;
+    height: 300px;
+    
+  }
